@@ -1,0 +1,81 @@
+# Sortie « Aux Heures Sombres » : posts réseaux (31/10/2026)
+
+Artiste : SOUS LES MOTS. Album : Aux Heures Sombres (Volume II, 12 titres). Label : Les Heures Sombres.
+Paroles : Marie-Hélène Soulier (toujours « auteur », jamais « autrice »). Musique : Nicolas Chauvrat.
+
+Liens :
+- Apple Music : https://music.apple.com/fr/album/aux-heures-sombres/6828058405
+- Spotify : https://open.spotify.com/artist/7B5UQdMNIZZX7d3NzzhTO6
+
+Visuels : `LHS-AHS-SORTIE-4x5.jpg` (post 1080 x 1350), `LHS-AHS-SORTIE-9x16.jpg` (story 1080 x 1920), générés par `mk.py` depuis `cover_AUX_HEURES_SOMBRES_V2_3000.jpg` (Drive).
+
+## Instagram (@les_heures_sombres), post 4:5
+
+L'album est sorti. 🌙
+
+AUX HEURES SOMBRES, le deuxième volume de Sous les mots, est disponible partout.
+
+Douze poèmes de Marie-Hélène Soulier, devenus douze chansons. Des mots écrits pour durer, posés sur une musique qui marche à côté d'eux, à l'heure où la lumière baisse.
+
+01 Traversée
+02 Le bout du monde
+03 Anthologie élective
+04 Sous les mots (pour Nicolas)
+05 Les éléments
+06 Ballade
+07 Prière au vent
+08 Chanson douce
+09 Je cherche ton regard
+10 Odyssée
+11 Reconnaissance
+12 Berceuse à la nuit
+
+Paroles : Marie-Hélène Soulier
+Musique : Nicolas Chauvrat
+
+🎧 Spotify, Apple Music, Deezer, YouTube Music : lien en bio.
+
+Écoutez-le en entier, une fois, la nuit. Et dites-nous quel titre vous a retenu.
+
+#souslesmots #auxheuressombres #lesheuressombres #nouvelalbum #chansonfrançaise #poésie #poésiefrançaise #poèmesenmusique #musiquefrançaise #nouveautémusicale #spotify #applemusic
+
+## Facebook (page Les Heures Sombres)
+
+L'album est sorti ! 🌙
+
+AUX HEURES SOMBRES, deuxième volume de Sous les mots, est disponible dès maintenant sur toutes les plateformes.
+
+Douze poèmes de Marie-Hélène Soulier, mis en musique. De « Traversée » à « Berceuse à la nuit », un disque à écouter d'une traite, quand la lumière baisse.
+
+🎧 Apple Music : https://music.apple.com/fr/album/aux-heures-sombres/6828058405
+🎧 Spotify : https://open.spotify.com/artist/7B5UQdMNIZZX7d3NzzhTO6
+
+Paroles : Marie-Hélène Soulier. Musique : Nicolas Chauvrat.
+Merci de partager autour de vous : c'est ce qui fait vivre ces chansons.
+
+#souslesmots #auxheuressombres #chansonfrançaise #poésie
+
+## Threads (@les_heures_sombres)
+
+L'album est sorti. 🌙
+AUX HEURES SOMBRES : douze poèmes de Marie-Hélène Soulier, devenus douze chansons.
+Sous les mots, volume II, disponible partout.
+
+Spotify : https://open.spotify.com/artist/7B5UQdMNIZZX7d3NzzhTO6
+Apple Music : https://music.apple.com/fr/album/aux-heures-sombres/6828058405
+
+## X (si le compte est reconnecté dans Postiz)
+
+L'album est sorti 🌙 AUX HEURES SOMBRES, Sous les mots vol. II : douze poèmes de Marie-Hélène Soulier mis en musique.
+🎧 https://music.apple.com/fr/album/aux-heures-sombres/6828058405
+#souslesmots #chansonfrançaise
+
+## Story Instagram / Facebook (9:16)
+
+Visuel `LHS-AHS-SORTIE-9x16.jpg` + autocollant lien vers Spotify ou Apple Music (à poser à la main dans l'appli, Postiz ne gère pas les autocollants).
+
+## LinkedIn (profil Nicolas, à poster à la main si voulu)
+
+Un projet personnel vient de sortir : AUX HEURES SOMBRES, deuxième album de Sous les mots.
+Douze poèmes de Marie-Hélène Soulier, que j'ai mis en musique. Merci à elle pour sa confiance.
+Disponible sur Spotify, Apple Music et toutes les plateformes : https://music.apple.com/fr/album/aux-heures-sombres/6828058405
