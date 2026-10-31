@@ -89,6 +89,7 @@ Média Postiz : c743c673-9950-43cb-b64e-175dc8ceadd8 (importé depuis l'URL raw 
 | Instagram @les_heures_sombres | PUBLIÉ | https://www.instagram.com/p/DfKLvx6G56Z/ |
 | Facebook Les Heures Sombres | PUBLIÉ | https://www.facebook.com/122109607581460703/posts/122124310005460703 |
 | Threads @les_heures_sombres | PUBLIÉ | https://www.threads.com/@les_heures_sombres/post/DfKLxFgiBNj |
+| Story Facebook Les Heures Sombres (9:16) | envoyée 13 h 45, encore QUEUE au contrôle | Postiz cmvwe936o005hpg8hy25kll6e |
 | X kuchiki | non tenté | compte en erreur dans Postiz depuis le 30/10 |
 | YouTube Les Heures Sombres | BLOQUÉ | `LHS-AHS-SORTIE-SHORT-9x16.mp4` prêt (45 s, extrait de Traversée de 0:38 à 1:23), mais youtube_upload_video ne lit que output/ et l'outil download_url n'est pas exposé à la session cloud. |
 
