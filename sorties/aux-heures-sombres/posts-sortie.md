@@ -79,3 +79,19 @@ Visuel `LHS-AHS-SORTIE-9x16.jpg` + autocollant lien vers Spotify ou Apple Music 
 Un projet personnel vient de sortir : AUX HEURES SOMBRES, deuxième album de Sous les mots.
 Douze poèmes de Marie-Hélène Soulier, que j'ai mis en musique. Merci à elle pour sa confiance.
 Disponible sur Spotify, Apple Music et toutes les plateformes : https://music.apple.com/fr/album/aux-heures-sombres/6828058405
+
+## Compte rendu de publication (31/10/2026, 13 h 43, Claude Code cloud, par le MCP Studio distant)
+
+Média Postiz : c743c673-9950-43cb-b64e-175dc8ceadd8 (importé depuis l'URL raw GitHub de ce dépôt, public).
+
+| Réseau | État | Lien |
+|---|---|---|
+| Instagram @les_heures_sombres | PUBLIÉ | https://www.instagram.com/p/DfKLvx6G56Z/ |
+| Facebook Les Heures Sombres | PUBLIÉ | https://www.facebook.com/122109607581460703/posts/122124310005460703 |
+| Threads @les_heures_sombres | PUBLIÉ | https://www.threads.com/@les_heures_sombres/post/DfKLxFgiBNj |
+| X kuchiki | non tenté | compte en erreur dans Postiz depuis le 30/10 |
+| YouTube Les Heures Sombres | BLOQUÉ | `LHS-AHS-SORTIE-SHORT-9x16.mp4` prêt (45 s, extrait de Traversée de 0:38 à 1:23), mais youtube_upload_video ne lit que output/ et l'outil download_url n'est pas exposé à la session cloud. |
+
+Envoi YouTube depuis le PC :
+`scp -i ~/.ssh/google_compute_engine sorties/aux-heures-sombres/LHS-AHS-SORTIE-SHORT-9x16.mp4 studio@34.163.14.232:~/studio-agent/output/`
+puis youtube_upload_video (chaine "souslesmots"). Autre option : download_url du Studio sur l'URL raw GitHub du fichier.
